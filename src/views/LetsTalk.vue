@@ -27,21 +27,18 @@
         data-netlify="true"
       >
         <v-text-field
-          class="form-control"
           solo-inverted
           flat
           label="Name"
         />
 
         <v-text-field
-          class="form-control"
           solo-inverted
           flat
           label="Email"
         />
 
         <v-text-field
-          class="form-control"
           solo-inverted
           flat
           label="Subject"
