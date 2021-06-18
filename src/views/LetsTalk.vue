@@ -21,7 +21,6 @@
       </core-subheading>
 
       <form
-        id="contactForm"
         name="new-contact-from"
         method="post"
         data-netlify="true"
