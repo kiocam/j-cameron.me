@@ -23,8 +23,8 @@
       <v-form
         id="contact-form-new"
         name="new-contact-form"
-        action=""
-        netlify
+        method="POST"
+        data-netlify="true"
         @submit.prevent=""
       >
         <v-text-field
