@@ -1,0 +1,156 @@
+{
+  "basics": {
+    "name": "Jason Cameron",
+    "label": "Vue Front-end Developer",
+    "picture": "",
+    "email": "jasoncameron246@gmail.com",
+    "phone": "(647) 233-9091",
+    "website": "http://j-cameron.me",
+    "summary": "I am front-end developer that specializes in everything Vue.js front-end development. I enjoy working on exciting and challenging projects, with fun and energetic individuals, using new & emerging web technologies. I aim to deliver the best possible service to my clients delivering a final product that is user friendly with exceptional design and accessible across all browsers and devices.",
+    "location": {
+      "address": "22 John Street",
+      "postalCode": "M9N 0B1",
+      "city": "York",
+      "countryCode": "CA",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "JasonKioCameron",
+        "url": "https://twitter.com/JasonKioCameron"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Jason Cameron",
+        "url": "https://www.linkedin.com/in/jason-cameron-762907107/"
+      },
+      {
+        "network": "Github",
+        "username": "kiocam",
+        "url": "https://github.com/kiocam"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SkyRocket Digital",
+      "position": "Front-end developer",
+      "website": "https://skyrocket.is/",
+      "startDate": "2021-05-17",
+      "summary": "Developing web sites for clients, using various different frameworks, making sure deadline are reached and projects are tested and deployed."
+    },
+    {
+      "company": "RentSync",
+      "position": "Front-end developer (vue.js)",
+      "website": "https://www.rentsync.com/",
+      "startDate": "2020-12-07",
+      "summary": "Developing client facing applications, using vue, assist in developing and expanding inturnal vue component libiary, performing unit testing, and code refactoring."
+    },
+    {
+      "company": "Initium Digital",
+      "position": "President",
+      "website": "https://initiumdigital.tech",
+      "startDate": "2019-04-20",
+      "summary": "Lead developer, In charge of developing client facing websites / applications, make sure the clients end goals are reached and their end users have an easy an engaging experience"
+    },
+    {
+      "company": "IDC Canada",
+      "position": "Front-end developer",
+      "website": "https://www.idc.com/ca",
+      "startDate": "2017-05-08",
+      "summary": "Front-end developer for IDC Canada, assisting the front-end team in development of client projects, refactoring legacy code, and build out new websites."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Humber College",
+      "area": "Interactive Web development",
+      "studyType": "Diploma",
+      "startDate": "2014-09-010",
+      "endDate": "N/A",
+      "courses": [
+
+      ]
+    },
+    {
+      "institution": "Udemy",
+      "area": "Web development",
+      "studyType": "Tutorial Videos",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+        "Vue js front-end development",
+        "React front-end development",
+        "Node.js master class",
+        "Javascript master class",
+        "Html5/css3 master class"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Graphics/Media",
+      "level": 3,
+      "keywords": [
+        "Figma",
+        "SketchApp"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": 4,
+      "keywords": [
+        "Javascript",
+        "Vue.js",
+        "Nuxt",
+        "Typescript",
+        "jQuery",
+        "HTML5/CSS3",
+        "scss"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": 4,
+      "keywords": [
+        "MySql",
+        "MongoDB",
+        "Google Firestore",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": 4,
+      "keywords": [
+        "Docker",
+        "terminal cmd line",
+        "github",
+        "gitlab",
+        "Jira",
+        "slack"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Static Site Development",
+      "keywords": [
+        "With modern technology on the rise, and new ways to develope a website, build and maintain a static web site has become super simple, enabling the user to experience blazing fast page loads speeds, with out sacrificing anything. If your are just starting out you venture/business going with a static web site is often the best decision, fast development and virtully no management."
+      ]
+    },
+    {
+      "name": "Wep Application Development",
+      "keywords": [
+        "There comes a time when our business may need an added software/web application to help the grow or to manage production or keep track or inventory etc... and there are many tools out in the market but they are either not the right fit or too complex. I help build small to medium size web applications that will aid you business and help you focus on the important things."
+      ]
+    },
+    {
+      "name": "Support",
+      "keywords": [
+        "We all need a helping hand every so often, if your existing site needs a new feature or bugs to me fixed, don't hesitate to reach out, I offer my support accross a wide range of fields from hosting, to server, and even consultation. No job is too small"
+      ]
+    }
+  ]
+}
