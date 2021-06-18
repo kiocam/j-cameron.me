@@ -21,15 +21,15 @@
       </core-subheading>
 
       <v-form
-        id="contact-form-new"
+        data-netlify="true"
         name="new-contact-form"
         method="POST"
-        data-netlify="true"
       >
         <v-text-field
           solo-inverted
           flat
           label="Name"
+          name="name"
         />
 
         <v-text-field
