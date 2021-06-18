@@ -20,7 +20,7 @@
         Send me a Message
       </core-subheading>
 
-      <v-form
+      <form
         name="new-contact-form"
         netlify
       >
@@ -62,7 +62,7 @@
         >
           Contact Me
         </v-btn>
-      </v-form>
+      </form>
     </v-col>
 
     <v-col
