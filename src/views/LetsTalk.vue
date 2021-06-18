@@ -20,7 +20,13 @@
         Send me a Message
       </core-subheading>
 
-      <v-form id="contact-form-new" name="new-contact-form" netlify>
+      <v-form
+        id="contact-form-new"
+        name="new-contact-form"
+        action=""
+        netlify
+        @submit.prevent=""
+      >
         <v-text-field
           class="form-control"
           solo-inverted
