@@ -20,32 +20,37 @@
         Send me a Message
       </core-subheading>
 
-      <v-form>
+      <v-form id="contact-form-new" name="new-contact-form" netlify>
         <v-text-field
+          class="form-control"
           solo-inverted
           flat
           label="Name"
         />
 
         <v-text-field
+          class="form-control"
           solo-inverted
           flat
           label="Email"
         />
 
         <v-text-field
+          class="form-control"
           solo-inverted
           flat
           label="Subject"
         />
 
         <v-textarea
+          class="form-control"
           solo-inverted
           flat
           label="Message"
         />
 
         <v-btn
+          type="submit"
           class="ma-0"
           color="primary"
         >
