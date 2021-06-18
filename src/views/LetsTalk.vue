@@ -25,7 +25,6 @@
         name="new-contact-form"
         method="POST"
         data-netlify="true"
-        @submit.prevent=""
       >
         <v-text-field
           class="form-control"
