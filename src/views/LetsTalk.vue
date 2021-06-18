@@ -22,8 +22,6 @@
 
       <v-form
         name="new-contact-form"
-        method="post"
-        data-netlify-honeypot="bot-field"
         netlify
       >
         <input
