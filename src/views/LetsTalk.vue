@@ -21,10 +21,16 @@
       </core-subheading>
 
       <v-form
-        data-netlify="true"
         name="new-contact-form"
-        method="POST"
+        method="post"
+        data-netlify="true"
+        data-netlify-honeypot="bot-field"
       >
+        <input
+          type="hidden"
+          name="form-name"
+          value="new-contact-from"
+        >
         <v-text-field
           solo-inverted
           flat
