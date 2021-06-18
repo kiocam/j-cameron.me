@@ -21,8 +21,11 @@
       </core-subheading>
 
       <form
-        name="new-contact-form"
-        netlify
+        id="contactForm"
+        name="new-contact-from"
+        method="post"
+        data-netlify="true"
+        data-netlify-honeypot="bot-field"
       >
         <input
           type="hidden"
