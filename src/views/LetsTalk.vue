@@ -42,12 +42,14 @@
           solo-inverted
           flat
           label="Email"
+          name="Email"
         />
 
         <v-text-field
           solo-inverted
           flat
           label="Subject"
+          name="Subject"
         />
 
         <v-textarea
@@ -55,6 +57,7 @@
           solo-inverted
           flat
           label="Message"
+          name="Message"
         />
 
         <v-btn
